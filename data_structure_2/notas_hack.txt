@@ -1,0 +1,28 @@
+
+Desafio 2: 
+	Educação ambiental sobre oceano
+
+Desafio 3:
+	identifique os desafios da sua cidade(poluição)
+
+Desafio 8:
+	Qualidade do ar com a saude publica
+	conscientização/monitoração
+
+Desafio 11:
+	Derretimento da Antártida
+Desafio 14:
+	seca global/modanças climaticas/recursos hídricos
+
+Deafio 15:
+	viajando no espaço pelo tempo
+
+Desafio 16: eventos extremos - observação/análise de dados
+
+
+tecnicas:
+	Jornada do usuário - Mapa para o sucesso
+	Job To Be Done
+	Persona do usuario
+	Mapeamento da jornada
+	MVP - conceito/objetivo/validação/exemplos
